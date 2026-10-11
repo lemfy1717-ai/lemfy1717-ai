@@ -1,16 +1,23 @@
-## Hi there 👋
+# Sarvar Xakimov
 
-<!--
-**lemfy1717-ai/lemfy1717-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder & CEO of [onePCPOS SYSTEM](https://onepcpos.uz)
 
-Here are some ideas to get you started:
+Sarvar Xakimov is an Uzbek IT entrepreneur and founder of onePCPOS SYSTEM, BUNKER Game Club, GAMEEX Game Club and INSIDE Coffee. He is also developing the upcoming LEMFY PERFORMANCE automotive tuning project in Chirchiq.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+onePCPOS was created from real operational challenges Sarvar encountered while managing gaming clubs. What started as an internal solution for cash management, orders, PC booking, inventory, reporting and daily operations has evolved into a comprehensive management platform for gaming clubs.
+
+## Karate & New Project
+
+Sarvar has a background in Kyokushin Karate and has progressed through the skill-belt system while developing practical experience in training, discipline, technique and personal progression.
+
+Based on the knowledge and experience gained through Kyokushin Karate, he is currently developing a new application designed to help beginners improve their karate skills more systematically and reach their potential more efficiently.
+
+The project aims to turn practical karate knowledge into a structured digital learning experience, making training guidance and skill development more accessible to beginners. The application is currently approaching the final stages of development.
+
+## Links
+
+- Website: https://onepcpos.uz
+- Founder page: https://onepcpos.uz/about#sarvar-xakimov
+- LinkedIn: https://www.linkedin.com/in/sarvar-xakimov/
+- Crunchbase: https://www.crunchbase.com/person/sarvar-xakimov
+- onePCPOS on Crunchbase: https://www.crunchbase.com/organization/onepcpos-system
